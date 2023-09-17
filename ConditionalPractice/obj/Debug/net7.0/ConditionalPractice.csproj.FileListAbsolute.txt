@@ -1,0 +1,15 @@
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/bin/Debug/net7.0/ConditionalPractice
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/bin/Debug/net7.0/ConditionalPractice.deps.json
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/bin/Debug/net7.0/ConditionalPractice.runtimeconfig.json
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/bin/Debug/net7.0/ConditionalPractice.dll
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/bin/Debug/net7.0/ConditionalPractice.pdb
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/ConditionalPractice.csproj.AssemblyReference.cache
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/ConditionalPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/ConditionalPractice.AssemblyInfoInputs.cache
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/ConditionalPractice.AssemblyInfo.cs
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/ConditionalPractice.csproj.CoreCompileInputs.cache
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/ConditionalPractice.dll
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/refint/ConditionalPractice.dll
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/ConditionalPractice.pdb
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/ConditionalPractice.genruntimeconfig.cache
+/home/emeka/Desktop/MyFolder/C#/Conditionals/ConditionalPractice/ConditionalPractice/obj/Debug/net7.0/ref/ConditionalPractice.dll
