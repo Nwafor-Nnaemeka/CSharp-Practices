@@ -1,0 +1,15 @@
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/bin/Debug/net7.0/LoopsDemo
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/bin/Debug/net7.0/LoopsDemo.deps.json
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/bin/Debug/net7.0/LoopsDemo.runtimeconfig.json
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/bin/Debug/net7.0/LoopsDemo.dll
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/bin/Debug/net7.0/LoopsDemo.pdb
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/LoopsDemo.csproj.AssemblyReference.cache
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/LoopsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/LoopsDemo.AssemblyInfoInputs.cache
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/LoopsDemo.AssemblyInfo.cs
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/LoopsDemo.csproj.CoreCompileInputs.cache
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/LoopsDemo.dll
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/refint/LoopsDemo.dll
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/LoopsDemo.pdb
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/LoopsDemo.genruntimeconfig.cache
+/home/emeka/Desktop/MyFolder/C#/LoopsDemo/LoopsDemo/obj/Debug/net7.0/ref/LoopsDemo.dll
