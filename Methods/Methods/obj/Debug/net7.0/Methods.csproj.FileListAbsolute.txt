@@ -1,0 +1,15 @@
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/bin/Debug/net7.0/Methods
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/bin/Debug/net7.0/Methods.deps.json
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/bin/Debug/net7.0/Methods.dll
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/bin/Debug/net7.0/Methods.pdb
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/Methods.dll
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/refint/Methods.dll
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/Methods.pdb
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/home/emeka/Desktop/MyFolder/C#/Methods/Methods/obj/Debug/net7.0/ref/Methods.dll
