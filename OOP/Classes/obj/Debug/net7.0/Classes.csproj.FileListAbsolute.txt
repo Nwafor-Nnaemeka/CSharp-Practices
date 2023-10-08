@@ -1,0 +1,15 @@
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/bin/Debug/net7.0/Classes
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/bin/Debug/net7.0/Classes.deps.json
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/bin/Debug/net7.0/Classes.dll
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/bin/Debug/net7.0/Classes.pdb
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/Classes.dll
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/refint/Classes.dll
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/Classes.pdb
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/home/emeka/Desktop/MyFolder/C#/OOP/Classes/obj/Debug/net7.0/ref/Classes.dll
