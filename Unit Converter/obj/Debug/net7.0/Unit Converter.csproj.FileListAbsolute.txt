@@ -1,0 +1,15 @@
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/bin/Debug/net7.0/Unit Converter
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/bin/Debug/net7.0/Unit Converter.deps.json
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/bin/Debug/net7.0/Unit Converter.runtimeconfig.json
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/bin/Debug/net7.0/Unit Converter.dll
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/bin/Debug/net7.0/Unit Converter.pdb
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/Unit Converter.csproj.AssemblyReference.cache
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/Unit Converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/Unit Converter.AssemblyInfoInputs.cache
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/Unit Converter.AssemblyInfo.cs
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/Unit Converter.csproj.CoreCompileInputs.cache
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/Unit Converter.dll
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/refint/Unit Converter.dll
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/Unit Converter.pdb
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/Unit Converter.genruntimeconfig.cache
+/home/emeka/Desktop/MyFolder/C#/Unit Converter/obj/Debug/net7.0/ref/Unit Converter.dll
